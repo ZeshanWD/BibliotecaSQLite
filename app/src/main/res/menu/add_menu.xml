@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Guardar"
+        android:id="@+id/btnGuardar"
+        android:icon="@android:drawable/ic_menu_save"
+        android:showAsAction="always"/>
+
+    <item
+        android:title="Descartar"
+        android:id="@+id/btnDescartar"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:showAsAction="always"/>
+
+</menu>
